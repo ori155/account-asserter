@@ -1,0 +1,23 @@
+{
+  "name": "account-asserter",
+  "version": "1.0.0",
+  "description": "Verify two mounthly transaction reports to be about the same, and show the diff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ori155/account-asserter.git"
+  },
+  "keywords": [
+    "account",
+    "money"
+  ],
+  "author": "ori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ori155/account-asserter/issues"
+  },
+  "homepage": "https://github.com/ori155/account-asserter#readme"
+}
